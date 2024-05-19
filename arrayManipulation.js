@@ -12,3 +12,8 @@ function formatArrayStrings(arrStr, arrnum){
 };
 
 // console.log(formatArrayStrings(["srbfi","srbrADSD"],[1,2]))
+
+module.exports = {
+    processArray,
+    formatArrayStrings
+};
